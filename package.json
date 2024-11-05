@@ -77,7 +77,7 @@
     "wa-sticker-formatter": "^4.4.4",
     "ws": "^8.0.0",
     "youtube-yts": "^2.0.0",
-    "youtubedl-core": "^4.11.5",
+    "youtube-dl-exec": "^3.0.10",
     "z-anime": "^1.1.2"
   },
   "devDependencies": {
